@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=negativenagesh&label=Profile%20views&color=0e75b6&style=flat" alt="negativenagesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=negativenagesh" alt="negativenagesh" /></a> </p>
-
 - 🔭 I’m currently working as Summer intern @Vizzhy [@Vizzhy, Bengaluru](https://www.linkedin.com/company/vizzhy)
 
 - 🌱 I’m currently learning **Machine learning, python**
