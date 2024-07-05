@@ -9,7 +9,7 @@
 
 - 👀 I'm an open minded person, **like to learn anything**
 
-- 🧑‍🎓 B.Tech Comp.Science (hons) Data Science [@](https://vidyashilp.edu.in)
+- 🧑‍🎓 B.Tech Comp.Science (hons) Data Science [https://vidyashilp.edu.in/](https://vidyashilp.edu.in/)
 
 - 🧠 Check my first and last blog [https://medium.com/@gaonkarsub](https://medium.com/@gaonkarsub)
 
