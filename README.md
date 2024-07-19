@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=negativenagesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working as Summer intern @Vizzhy [@Vizzhy, Bengaluru](https://www.linkedin.com/company/vizzhy)
+- 🔭 I’m currently working as a Summer intern @Vizzhy [@Vizzhy, Bengaluru](https://www.linkedin.com/company/vizzhy)
 - 🌱 I’m currently learning **Machine learning, Python**
 - 👀 I'm an open-minded person, **like to learn anything**
 - 🧑‍🎓 B.Tech Comp.Science (hons) Data Science [Vidyashilp University](https://vidyashilp.edu.in/)
