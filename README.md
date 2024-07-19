@@ -24,15 +24,13 @@
   <img src="https://github.com/negativenagesh/negativenagesh/blob/main/ezgif-1721408974236.gif" alt="GIF" width="40%" />
 </p>
 
-<p align="center">
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrahmanya-gaonkar" height="30" width="40" /></a>
-  <a href="https://kaggle.com/subrahmanya090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-  generator/master/src/images/icons/Social/kaggle.svg" alt="subrahmanya090" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrahmanya-gaonkar" height="30" width="40" /></a>
+  <a href="https://kaggle.com/subrahmanya090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subrahmanya090" height="30" width="40" /></a>
   <a href="https://instagram.com/subrahmanya_gaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subrahmanya_gaonkar" height="30" width="40" /></a>
-  <a href="https://medium.com/@gaonkarsub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-  generator/master/src/images/icons/Social/medium.svg" alt="@gaonkarsub" height="30" width="40" /></a>
+  <a href="https://medium.com/@gaonkarsub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gaonkarsub" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/negativenagesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="negativenagesh" height="30" width="40" /></a>
-  </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
