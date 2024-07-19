@@ -15,9 +15,10 @@
 - ⚡ DELETE FROM thoughts **where type= "Negative" ;**
 
 <p align="center">
-  <img src="https://github.com/negativenagesh/negativenagesh/blob/main/ezgif-1721408974236.gif" alt="GIF" width="40%" />
+  <a href="https://ibb.co/NWZ07dM"><img src="https://i.ibb.co/NWZ07dM/Motivation.gif" alt="Motivation" border="0"></a>
 </p>
 
+<p align="center"><strong>👆 Click the image above to see it animate! 👆</strong></p>
 <h3 align="center">Get in Touch Before My Code Compiles</h3>
 <p align="center">
   <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="70" width="70" /></a>
