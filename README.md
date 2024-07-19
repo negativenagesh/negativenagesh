@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as Summer intern @Vizzhy [@Vizzhy, Bengaluru](https://www.linkedin.com/company/vizzhy)
 - 🌱 I’m currently learning **Machine learning, Python**
 - 👀 I'm an open-minded person, **like to learn anything**
-- 🧑‍🎓 B.Tech Comp.Science (hons) Data Science [Vidyashilp Academy](https://vidyashilp.edu.in/)
+- 🧑‍🎓 B.Tech Comp.Science (hons) Data Science [Vidyashilp University](https://vidyashilp.edu.in/)
 - 🧠 Check my first and last blog [Medium](https://medium.com/@gaonkarsub)
 - 💬 Ask me about **anything, coz I use ֎ ChatGPT**
 - 📫 Reach me **[gaonkarsub@gmail.com](mailto:gaonkarsub@gmail.com)**
