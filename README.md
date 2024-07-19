@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/negativenagesh/negativenagesh/blob/main/ezgif-1721408974236.gif" alt="GIF" width="50%" />
+  <img src="https://github.com/negativenagesh/negativenagesh/blob/main/ezgif-1721408974236.gif" alt="GIF" width="40%" />
 </p>
 
 
