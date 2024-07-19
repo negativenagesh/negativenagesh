@@ -19,12 +19,11 @@
 
 - ⚡ DELETE FROM thoughts **where type= "Neagative" ;**
 
-<div align="center">
-  <video width="600" height="400" controls>
-    <source src="https://github.com/user-attachments/assets/b9f76d2b-53dd-4592-b007-355abd17e082" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+<p align="center">
+  <img src="https://your-hosted-gif-link.gif" alt="GIF" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
