@@ -1,4 +1,4 @@
-<h1 align="center">Wassup 🙏, I'm Subrahmanya Gaonkar</h1>
+<h1 align="center">🙏, I'm Subrahmanya Gaonkar</h1>
 <h3 align="center">I'm a 📈 Data Science geek 🥷 from Bengaluru</h3>
 
 <p align="center">
