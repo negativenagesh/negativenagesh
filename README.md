@@ -9,8 +9,6 @@
 </p>
 
 - 🔭 I’m currently working as a Summer intern @Vizzhy [@Vizzhy, Bengaluru](https://www.linkedin.com/company/vizzhy)
-- 🌱 I’m currently learning **Machine learning, Python**
-- 👀 I'm an open-minded person, **like to learn anything**
 - 🧑‍🎓 B.Tech Comp.Science (hons) Data Science [Vidyashilp University](https://vidyashilp.edu.in/)
 - 🧠 Check my first and last blog [Medium](https://medium.com/@gaonkarsub)
 - 💬 Ask me about **anything, coz I use ֎ ChatGPT**
