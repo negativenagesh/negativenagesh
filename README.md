@@ -1,7 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Wassup!+🙏;+I'm+Subrahmanya+Gaonkar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Hello+Wassup!+🙏;+Subrahmanya+Gaonkar+here+😴;&color=FFFFFF" />
 </h1>
-<h3 align="center">I'm a 📈 Data Science geek 🥷 from Bengaluru</h3>
+
+<h3 align="center">I'm an Open minded 🥷 from Bengaluru</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=negativenagesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
