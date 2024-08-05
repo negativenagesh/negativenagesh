@@ -57,8 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=negativenagesh&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-![](https://github-contributor-stats.vercel.app/api?username=negativenagesh&limit=1&theme=catppuccin_latte&combine_all_yearly_contributions=true)
-
  <p align="center">
   <img src="https://raw.githubusercontent.com/negativenagesh/Custom_SVG/main/Thought.svg" alt="Quote SVG" width="500"/>
 </p>
