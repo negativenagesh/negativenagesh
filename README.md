@@ -8,10 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=negativenagesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working as a Summer intern @Vizzhy [@Vizzhy, Bengaluru](https://www.linkedin.com/company/vizzhy)
+- 🔭 Worked as a Summer intern @Vizzhy [@Vizzhy, Bengaluru](https://www.linkedin.com/company/vizzhy)
 - 🧑‍🎓 B.Tech Comp.Science (hons) Data Science [Vidyashilp University](https://vidyashilp.edu.in/)
 - 🧠 Check my first and last blog [Medium](https://medium.com/@gaonkarsub)
-- 💬 Ask me about **anything, coz I use ֎ ChatGPT**
+- 💬 Ask me about **anything**
 - 📫 Reach me **[gaonkarsub@gmail.com](mailto:gaonkarsub@gmail.com)**
 
 <p align="center">
