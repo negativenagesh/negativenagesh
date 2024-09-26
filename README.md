@@ -60,15 +60,3 @@
  <p align="center">
   <img src="https://raw.githubusercontent.com/negativenagesh/Custom_SVG/main/Thought.svg" alt="Quote SVG" width="500"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
