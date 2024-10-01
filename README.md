@@ -1,8 +1,9 @@
 <h1 align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Hello+Wassup!+🙏;+Subrahmanya+Gaonkar+here+😴;&color=FFFFFF" />
 </h1>
 
-<h3 align="center">I'm an Open minded 🥷 from Bengaluru</h3>
+<h3 align="center"> I'm an Open minded 🥷 from Bengaluru</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=negativenagesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -75,7 +76,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=negativenagesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
-
-
-
-
