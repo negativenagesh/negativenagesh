@@ -1,5 +1,8 @@
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+</div>
+
 <h1 align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Hello+Wassup!+🙏;+Subrahmanya+Gaonkar+here+😴;&color=FFFFFF" />
 </h1>
 
@@ -28,7 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=negativenagesh&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<h3 align="center">Get in Touch Before My Code Compiles</h3>
+<h3 align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
+    Get in Touch Before My Code Compiles
+</h3>
 <p align="center">
   <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://instagram.com/subrahmanya_gaonkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
@@ -76,3 +82,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=negativenagesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+
