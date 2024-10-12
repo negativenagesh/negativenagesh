@@ -73,8 +73,10 @@
 
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/negativenagesh/Custom_SVG/main/Thought.svg" alt="Quote SVG" width="500"/>
-</p>
+
+[![An image of @negativenagesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/negativenagesh)](https://holopin.io/@negativenagesh)
+ 
+ </p>
 
 <div align="center">
     
