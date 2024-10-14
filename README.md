@@ -35,7 +35,7 @@
     <h4>📊 GitHub Stats</h4>
 </div>
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="left" style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=negativenagesh&theme=calm_pink&show_icons=true&locale=en" alt="GitHub Stats" style="margin-right: 10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=negativenagesh&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
 </div>
