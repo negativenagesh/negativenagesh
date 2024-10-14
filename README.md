@@ -35,10 +35,10 @@
     <h4>📊 GitHub Stats</h4>
 </div>
 
-<div align="center" style="display: flex; justify-content: center;>
+<div align="center" style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=negativenagesh&theme=calm_pink&show_icons=true&locale=en" alt="GitHub Stats" style="margin-right: 10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=negativenagesh&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
-</div>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=negativenagesh&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
