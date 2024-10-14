@@ -1,9 +1,5 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-</div>
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Hello+Wassup!+🙏;+Subrahmanya+Gaonkar+here+😴;&color=FFFFFF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Namaskara!+🙏;+Subrahmanya+Gaonkar+here+😴;&color=FFFFFF" />
 </h1>
 
 <h3 align="center"> I'm an Open minded 🥷 from Bengaluru</h3>
@@ -18,13 +14,15 @@
 - 💬 Ask me about **anything**
 - 📫 Reach me **[gaonkarsub@gmail.com](mailto:gaonkarsub@gmail.com)**
 
-<div align="center">
-  <h4>📊 GitHub Stats</h3>
-    
-![](https://github-profile-trophy.vercel.app/?username=negativenagesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=negativenagesh&theme=calm_pink&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=negativenagesh&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
+[![An image of @negativenagesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/negativenagesh)](https://holopin.io/@negativenagesh)
+ 
+</p>
+
+<div align="center" style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=negativenagesh&theme=calm_pink&show_icons=true&locale=en" alt="GitHub Stats" style="margin-right: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=negativenagesh&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <p align="center">
@@ -71,12 +69,14 @@
 
 </div>
 
+<div align="center"">
+    <h4>📊 GitHub Stats</h4>
+</div>
 
- <p align="center">
+<div align="center" style="overflow-x: auto; max-width: 100%; text-align: center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=negativenagesh&row=1&column=10&margin-w=5&margin-h=5" alt="Trophies" style="display: inline-block;"/>
+</div>
 
-[![An image of @negativenagesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/negativenagesh)](https://holopin.io/@negativenagesh)
- 
- </p>
 
 <div align="center">
     
