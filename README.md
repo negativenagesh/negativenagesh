@@ -2,6 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Namaskara!+🙏;+Subrahmanya+Gaonkar+here+😴;&color=FFFFFF" />
 </h1>
 
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/Subrahmanya.Gaonkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
 <h3 align="center"> I'm an Open minded 🥷 from Bengaluru</h3>
 
 <h3 align="center">
@@ -71,10 +76,12 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
 </div>
 
 <div align="center" style="overflow-x: auto; max-width: 100%; text-align: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=negativenagesh&row=1&column=10&margin-w=5&margin-h=5" alt="Trophies" style="display: inline-block;"/>
+    
+<img src="https://github-profile-trophy.vercel.app/?username=negativenagesh&row=1&column=10&margin-w=5&margin-h=5" alt="Trophies" style="display: inline-block;"/>
 </div>
 
 
