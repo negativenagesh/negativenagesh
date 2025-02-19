@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Namaskara!+🙏;+Subrahmanya+Gaonkar+here+😴;&color=FFFFFF" />
 </h1>
 
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/Subrahmanya.Gaonkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
 
 <h3 align="center"> I'm an Open minded 🥷 from Bengaluru</h3>
 
@@ -92,6 +88,10 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/Subrahmanya.Gaonkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
 
 
 
