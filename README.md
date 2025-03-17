@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Namaskara!+🙏;+Subrahmanya+Gaonkar+here+😴;&color=FFFFFF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Namaskara!+🙏;+Subrahmanya+here+😴;&color=FFFFFF" />
 </h1>
 
 
