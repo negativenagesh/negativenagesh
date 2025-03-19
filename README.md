@@ -2,9 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Namaskara!+🙏;+Subrahmanya+here+😴;&color=FFFFFF" />
 </h1>
 
-
-<h3 align="center"> I'm an Open minded 🥷 from Bengaluru</h3>
-
 <div align="center">
     
 📫 Reach me on **[gaonkarsub@gmail.com](mailto:gaonkarsub@gmail.com)**
@@ -39,23 +36,10 @@ I also worked on building a PUBG Matchmaking Database using MySQL, where I desig
 Additionally, I’m active in the open-source community. I’ve contributed to the CPython documentation, particularly the mimetypes module, and worked on various projects like Hands-on LLMs, Khoj AI etc.
 </p>
 
-<p align="center">
+<div align= "center" style="display: flex; gap: 5px; flex-wrap: wrap;">
 
-[![An image of @negativenagesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/negativenagesh)](https://holopin.io/@negativenagesh)
- 
-</p>
-
-<div align="center"">
-    <h4>📊 GitHub Stats</h4>
-</div>
-
-<div align="center" style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=negativenagesh&theme=calm_pink&show_icons=true&locale=en" alt="GitHub Stats" style="margin-right: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=negativenagesh&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=negativenagesh&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=negativenagesh&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stat" style="height: 160px;" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=negativenagesh&theme=dark&hide_border=true" alt="GitHub Streak" style="height: 160px;">
 </p>
 
 <p align="center">
@@ -64,7 +48,7 @@ Additionally, I’m active in the open-source community. I’ve contributed to t
   </a>
 </p>
 
-<h3 align="center">💻 Tech Stack:</h3>
+<h3 align="center">Tech Stack:</h3>
 
 <div align="center">
     
@@ -88,12 +72,6 @@ Additionally, I’m active in the open-source community. I’ve contributed to t
 
 </div>
 
-<div align="center" style="overflow-x: auto; max-width: 100%; text-align: center;">
-    
-<img src="https://github-profile-trophy.vercel.app/?username=negativenagesh&row=1&column=10&margin-w=5&margin-h=5" alt="Trophies" style="display: inline-block;"/>
-</div>
-
-
 <div align="center">
     
 ### 🔝 Top Contributed Repo
@@ -105,11 +83,3 @@ Additionally, I’m active in the open-source community. I’ve contributed to t
 
 <a href="https://www.buymeacoffee.com/Subrahmanya.Gaonkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
-
-
-
-
-
-
-
-
