@@ -24,9 +24,10 @@
 
 <p align="justify">
 
-Hi, I’m Subrahmanya Gaonkar, currently based in Bengaluru. I’m a Machine Learning and Deep Learning Engineer passionate about solving real-world problems through data-driven solutions.
+Hey, I’m Subrahmanya Gaonkar, currently based in Bengaluru, India. I’m a Machine Learning and Deep Learning Engineer passionate about solving real-world problems through data-driven solutions.
 
-What motivates me?
+### What motivates me?
+
 I love tackling everyday problems with technology, that people can rely on every day. Whether it’s streamlining processes or enhancing accessibility I enjoy crafting data-driven solutions, using skills in Machine learning, Deep Learning, computer vision, Generative AI, LLMs mainly Data Science for automating quality grading to cut manual labor by 90% or creating AI chatbots to improve healthcare access - this drives me because they make a real difference in people’s lives and society.
 
 Recently, I interned at Vizzhy (HanoomanAI), where I worked on some exciting AI-driven projects. One of my notable contributions was developing ArogyaMitra, a medical chatbot trained on specialized medical data. Using tools like Pinecone, Llama2, and Langchain, I managed to achieve a 95% accuracy rate in responding to medical queries and significantly reduced response latency by deploying the model locally. I also created a WhatsApp Chat Analyzer, which provided insights into chat behavior using NLP and data visualization, enhancing user engagement by 25%.
