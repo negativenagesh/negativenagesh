@@ -30,14 +30,6 @@ Hey, I’m Subrahmanya Gaonkar, currently based in Bengaluru, India. I’m a Mac
 
 I love tackling everyday problems with technology, that people can rely on every day. Whether it’s streamlining processes or enhancing accessibility I enjoy crafting data-driven solutions, using skills in Machine learning, Deep Learning, computer vision, Generative AI, LLMs mainly Data Science for automating quality grading to cut manual labor by 90% or creating AI chatbots to improve healthcare access - this drives me because they make a real difference in people’s lives and society.
 
-Recently, I interned at Vizzhy (HanoomanAI), where I worked on some exciting AI-driven projects. One of my notable contributions was developing ArogyaMitra, a medical chatbot trained on specialized medical data. Using tools like Pinecone, Llama2, and Langchain, I managed to achieve a 95% accuracy rate in responding to medical queries and significantly reduced response latency by deploying the model locally. I also created a WhatsApp Chat Analyzer, which provided insights into chat behavior using NLP and data visualization, enhancing user engagement by 25%.
-
-Academically, I’m pursuing a B.Tech (Hons) in Computer Science - Data Science, with a minor in Finance, at Vidyashilp University.
-
-One of my most impactful projects has been Arecaverse, an AI-powered areca nut quality classification tool. This project automates the sorting process with an 89% accuracy rate, reducing manual labor by up to 90%. It has real-world implications for farmers in Karnataka, helping them save on labor costs and improve market pricing accuracy.
-I also worked on building a PUBG Matchmaking Database using MySQL, where I designed a scalable database that optimized player pairing and significantly improved data processing efficiency.
-
-Additionally, I’m active in the open-source community. I’ve contributed to the CPython documentation, particularly the mimetypes module, and worked on various projects like Hands-on LLMs, Khoj AI etc.
 </p>
 
 <div align= "center" style="display: flex; gap: 5px; flex-wrap: wrap;">
