@@ -44,8 +44,6 @@ I love tackling everyday problems with technology, that people can rely on every
   </a>
 </p>
 
-<h3 align="center">Tech Stack:</h3>
-
 <div align="center">
     
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
