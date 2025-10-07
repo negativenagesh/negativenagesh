@@ -28,7 +28,7 @@ Hey, I’m Subrahmanya Gaonkar, currently based in Bengaluru, India. I’m a Mac
 
 ### What motivates me?
 
-I love tackling everyday problems with technology, that people can rely on every day. Whether it’s streamlining processes or enhancing accessibility I enjoy crafting data-driven solutions, using skills in Machine learning, Deep Learning, computer vision, Generative AI, LLMs mainly Data Science for automating quality grading to cut manual labor by 90% or creating AI chatbots to improve healthcare access - this drives me because they make a real difference in people’s lives and society.
+I love tackling everyday problems with technology that people can rely on. Whether it’s streamlining processes or enhancing accessibility I enjoy crafting data driven solutions that streamline processes, enhance accessibility, and drive meaningful change. Using skills in Machine learning, Deep Learning, computer vision, Generative AI, LLMs – I focus on creating innovative tools and automation that improve efficiency and quality across industries and people. This drives me because they make a real difference in people’s lives.
 
 </p>
 
