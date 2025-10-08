@@ -4,7 +4,7 @@
 
 <div align="center">
     
-📫 Reach me on **[gaonkarsub@gmail.com](mailto:gaonkarsub@gmail.com)**
+Reach me on **[gaonkarsub@gmail.com](mailto:gaonkarsub@gmail.com)**
 </div>
 
 <h3 align="center">
