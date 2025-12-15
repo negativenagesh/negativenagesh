@@ -24,7 +24,7 @@ Reach me on **[gaonkarsub@gmail.com](mailto:gaonkarsub@gmail.com)**
 
 <p align="justify">
 
-Hey, I’m Subrahmanya Gaonkar, currently based in Bengaluru, India. I’m a Machine Learning and Deep Learning Engineer passionate about solving real-world problems through data-driven solutions.
+Hey, I’m Subrahmanya Gaonkar, currently based in Bengaluru, India. I’m a AI Engineer passionate about solving real-world problems through data-driven solutions.
 
 ### What motivates me?
 
