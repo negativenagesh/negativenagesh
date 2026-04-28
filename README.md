@@ -2,15 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Namaskara!+🙏;+Subrahmanya+here+😴;&color=FFFFFF" />
 </h1>
 
-<h3 align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
-    Get in Touch Before My Code Compiles
-</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://instagram.com/subrahmanya_gaonkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="https://kaggle.com/subrahmanya090" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
-  <a href="https://medium.com/@gaonkarsub" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/_subrahmanya_" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/subrahmanya_gaonkar" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://kaggle.com/subrahmanya090" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -27,21 +23,15 @@ I love tackling everyday problems with technology that people can rely on. Wheth
 
 </p>
 
-<div align= "center" style="display: flex; gap: 5px; flex-wrap: wrap;">
-<img src="https://nirzak-streak-stats.vercel.app/?user=negativenagesh&theme=dark&hide_border=true" alt="GitHub Streak" style="height: 160px;">
-</p>
-
-<p align="center">
-  <a href="https://github.com/negativenagesh/negativenagesh/blob/main/ezgif-1721408974236.gif">
-    <img src="https://github.com/negativenagesh/negativenagesh/blob/main/ezgif-1721408974236.gif" alt="Click to see animation!" width="40%" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=negativenagesh&theme=dark&hide_border=true" alt="GitHub Streak" style="height: 160px;" />
+</div>
 
 <div align="center">
     
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=negativenagesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=negativenagesh&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 </div>
 
 <div align="center">
