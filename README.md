@@ -15,11 +15,7 @@
 
 <p align="justify">
 
-Hey, I’m Subrahmanya Gaonkar, currently based in Bengaluru, India. I’m a AI Engineer passionate about solving real-world problems through data-driven solutions.
-
-### What motivates me?
-
-I love tackling everyday problems with technology that people can rely on. Whether it’s streamlining processes or enhancing accessibility I enjoy crafting data driven solutions that streamline processes, enhance accessibility, and drive meaningful change. Using skills in Machine learning, Deep Learning, computer vision, Generative AI, LLMs – I focus on creating innovative tools and automation that improve efficiency and quality across industries and people. This drives me because they make a real difference in people’s lives.
+Hey, I’m Subrahmanya Gaonkar, currently based in Bengaluru, India. I’m a AI Engineer passionate about solving real-world problems through data-driven solutions. I love tackling everyday problems with technology that people can rely on. Whether it’s streamlining processes or enhancing accessibility I enjoy crafting data driven solutions that streamline processes, enhance accessibility, and drive meaningful change. Using skills in Machine learning, Deep Learning, computer vision, Generative AI, LLMs – I focus on creating innovative tools and automation that improve efficiency and quality across industries and people. This drives me because they make a real difference in people’s lives.
 
 </p>
 
