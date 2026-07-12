@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Namaskara!+🙏;+Subrahmanya+here+😴;&color=FFFFFF" />
-</h1>
-
 <p align="center">
   <img width="720" height="620" alt="ascii_portrait_v2" src="https://github.com/user-attachments/assets/e0d2a297-111a-4042-8806-86f662625df8" />
 </p>
