@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img width="720" height="620" alt="ascii_portrait_v2" src="https://github.com/user-attachments/assets/e0d2a297-111a-4042-8806-86f662625df8" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://x.com/_subrahmanya_" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/subrahmanya_gaonkar" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
