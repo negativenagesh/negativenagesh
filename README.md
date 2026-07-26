@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="720" height="620" alt="ascii_portrait_v2" src="" />
+  <img width="720" height="620" alt="ascii_portrait_v2" src="https://github.com/negativenagesh/negativenagesh/blob/main/github.gif" />
 </p>
 
 
