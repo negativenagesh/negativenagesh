@@ -1,9 +1,11 @@
-<p align="center">
-  <img width="720" height="620" alt="ascii_portrait_v2" src="https://github.com/negativenagesh/negativenagesh/blob/main/github.gif" />
-</p>
+<div align="center">
+<a href="https://subrahmanyagaonkar.vercel.app">
+  <img src="preview.jpg" alt="Portfolio preview" width="900">
+</a>
 
+### [Visit the live portfolio →](https://subrahmanyagaonkar.vercel.app/)
 
-
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
